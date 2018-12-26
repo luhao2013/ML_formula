@@ -11,3 +11,6 @@
 
 [支持向量机3-弱对偶性证明](https://github.com/luhao2013/ML_formula/blob/master/%E6%94%AF%E6%8C%81%E5%90%91%E9%87%8F%E6%9C%BA/%E6%94%AF%E6%8C%81%E5%90%91%E9%87%8F%E6%9C%BA3-%E5%BC%B1%E5%AF%B9%E5%81%B6%E6%80%A7%E8%AF%81%E6%98%8E.pdf)
 
+### 二、矩阵分解
+
+[SVD分解](https://github.com/luhao2013/ML_formula/blob/master/%E7%9F%A9%E9%98%B5%E5%88%86%E8%A7%A3/SVD%E5%88%86%E8%A7%A3.pdf)
